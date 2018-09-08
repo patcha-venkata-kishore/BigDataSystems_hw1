@@ -9,3 +9,6 @@ Two plots will be generated.
 
 Data folder structure is in a format that Keras ImageDataGenerator can generate vectors with image RBG. 
 Once we have data we are ready for creating model, compiling and training. 
+
+Note that there are two main.py files. One file for problem1.1 and other is for problem1.2. 
+Please get whole code to a project and then run main files. 
